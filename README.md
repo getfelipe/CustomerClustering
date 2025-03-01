@@ -1,3 +1,8 @@
+[![Author: Felipe Machado](https://img.shields.io/badge/Author-Felipe-blue?style=flat-square)](https://www.linkedin.com/in/getfelipe/)  
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)](https://www.python.org/downloads/release/python-3120/)
+
+
+
 # Customer Clustering of a Supermarket
 
 A supermarket has a dataset containing the following features: **"Age," "Gender," "Annual Income (k$)," "Spending Score (1-100),"** and **"CustomerID."** The goal of this project is to identify relationships within the data and create customer clusters. These clusters can help align marketing strategies tailored to each customer profile.
@@ -34,9 +39,23 @@ The following Python libraries were used in this project:
 |---> data     (Dataset used in the project)  
 |---> assets   (Images displayed in the README)  
 |---> codes    (Scripts containing the project's logic)  
-|---> reports  (Initial report with dataset insights)  
+|---> reports  (Initial report with dataset insights)
 ```
 
 ## How to Reproduce the Project
 
-(Instructions to be added)
+### Prerequisites
+
+Ensure you have Python 3.12 installed.
+
+### Clone the Repository
+
+```sh
+git clone https://github.com/
+```
+
+### Install Dependencies
+
+```sh
+pip install -r requirements.txt
+```
