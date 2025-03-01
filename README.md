@@ -1,5 +1,5 @@
-[![Author: Felipe Machado](https://img.shields.io/badge/Author-Felipe-Machado-blue?style=flat-square)](https://www.linkedin.com/in/getfelipe/)[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)](https://www.python.org/downloads/release/python-3120/)
-
+[![Author: Felipe Machado](https://img.shields.io/badge/Author-Felipe-Machado-blue?style=flat-square)](https://www.linkedin.com/in/getfelipe/)  
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)](https://www.python.org/downloads/release/python-3120/)
 
 
 # Customer Clustering of a Supermarket
@@ -50,7 +50,7 @@ Ensure you have Python 3.12 installed.
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/getfelipe/CustomerClustering.git
+git clone https://github.com/
 ```
 
 ### Install Dependencies
